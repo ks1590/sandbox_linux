@@ -2,3 +2,7 @@
 - bzip2
 - sort -f -k 3 -r -t , file
 - file
+- head
+- history
+  - HISTFILESIZE
+  - HISTFILE
